@@ -1,2 +1,1 @@
-# alx-pre_course
-
+This is my README file for the alx-pre_course repository
